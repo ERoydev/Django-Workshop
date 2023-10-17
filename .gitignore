@@ -1,0 +1,9 @@
+*.pyc
+*~
+Petstagram
+static
+templates
+manage.py
+Lib
+Scripts
+
